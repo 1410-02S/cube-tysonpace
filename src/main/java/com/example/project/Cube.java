@@ -3,6 +3,8 @@ package com.example.project;
 import java.util.Scanner;
 import java.util.ArrayList;
 
+//Really good job here, I hthink it looks quite complete and seems to work well.
+
 public class Cube {
 	static String redFace[][] = {
 			{ "r", "r", "r" },
